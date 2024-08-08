@@ -7,7 +7,10 @@ body{
     background-color: rgb(255, 255, 255);
 }
 
+/*FOOTER STYLED*/
+
 footer{
+    margin-bottom: 0px;
     margin-top: 35%;
     background-color: black;
     width: 100%;
@@ -32,6 +35,39 @@ background-color: white;
 }
 
 
+/* HEADER STYLED*/
+
+header{
+    background-color: black;
+    width: 100%;
+    height: 15% ;
+    margin-top: 0%;
+    padding: 0%;
+}
+
+ul{
+     text-align: right;
+     margin-right: 40px;
+     padding-top: 30px;
+}
+
+#road{
+    background-color: white;
+    width: 50%;
+   
+    margin-left: 50%;
+    
+}
+   
+li{
+    margin-left: 10px;
+    display: inline;
+}
+
+li a{
+    color: rgb(0, 0, 0);
+}
+
 
 /*Media screen size A*/
 @media (max-width: 767px) {
@@ -46,10 +82,6 @@ background-color: white;
         width: 100%;
         background-color: white;
         }
-
-
-
-        
 
 
 }
