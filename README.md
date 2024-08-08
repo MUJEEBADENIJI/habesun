@@ -5,4 +5,4 @@ a product of Html / Css + (Bootstrap-4) / Javascript + (Jquery) / Json <br>
 Domain Name : // <br>
 live here : https://mujeebadeniji.github.io/niggasdrip/ <br>
 last update : 8/8/2024 <br>
-last commit : / CodePage.Me /
+last commit : / JOJO.BOT /
