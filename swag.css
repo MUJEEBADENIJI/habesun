@@ -12,7 +12,7 @@ body{
 footer{
     margin-bottom: 0px;
     margin-top: 35%;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.774);
     width: 100%;
     height: 10%;
     text-align: center;
@@ -38,34 +38,49 @@ background-color: white;
 /* HEADER STYLED*/
 
 header{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.774);
     width: 100%;
     height: 15% ;
     margin-top: 0%;
     padding: 0%;
+    
 }
 
 ul{
      text-align: right;
-     margin-right: 40px;
-     padding-top: 30px;
+     margin-right: 100px;
+     padding-top: 10px;
 }
 
 #road{
     background-color: white;
-    width: 50%;
-   
-    margin-left: 50%;
-    
+    width: 40%;
+    height: 50px;
+    margin-left: 60%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 40px;
+
 }
    
 li{
-    margin-left: 10px;
+    margin-left: 50px;
     display: inline;
 }
 
 li a{
-    color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0); 
+}
+
+/*logo styling*/
+
+#logo{
+
+    height: 90px;
+    width: 90px;
+    background-color: antiquewhite;
+    border-radius:70%;
+    float: inline-start;
+
 }
 
 
