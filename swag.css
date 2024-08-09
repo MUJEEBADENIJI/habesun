@@ -74,14 +74,19 @@ li a{
 /*logo styling*/
 
 #logo{
-
+    margin-top: 3px;
+    margin-left: 7px;
     height: 90px;
     width: 90px;
     background-color: antiquewhite;
     border-radius:70%;
     float: inline-start;
-
+  
 }
+img{
+    border-radius: 70%;
+}
+
 
 
 /*Media screen size A*/
