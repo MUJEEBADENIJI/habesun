@@ -101,9 +101,24 @@ li a{
     background-color: #474e5d;
     text-align: center;
 }
-
-
-
+#email{
+    width: 30%;
+    height:50px;
+display: block;
+border-color: black;
+}
+#message{
+    height: 80px;
+    width: 25%;
+    display: block;
+    border-color:black;
+}
+#name{
+    width: 30%;
+    height: 50px;
+    display: block;
+    border-color: black;
+}
 
 
 /*Media screen size A*/
@@ -119,6 +134,17 @@ li a{
         width: 100%;
         background-color: white;
         }
-
+#email{
+    width: 80%;
+}
+#name{
+    width: 80%;
+}
+#message{
+    width: 40%;
+    height: 100px;
 
 }
+#OGO{
+    width: 50%;
+ }
