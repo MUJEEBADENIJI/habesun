@@ -7,7 +7,7 @@
 🚀Backend : Javascript + (Express.js) / <br>
 🚀Database : SQL + (Sqlite) / <br>
 🚀Server : Node.js / <br>
-🚀Decorations: Google fonts and icons <br>
+🚀Decorations: Font Awesome 4 fonts and icons <br>
 🚀Others : // <br>
 
 🚀Domain Name : // <br>
